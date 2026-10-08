@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Joonathan Henrique
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela ETEC Albert Einstein.
 
