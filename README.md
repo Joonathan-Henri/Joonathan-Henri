@@ -51,7 +51,7 @@ Projeto focado em visualização e análise de dados.
 ### 🐍 Estudos em Python
 Repositório com exercícios, lógica de programação e pequenos projetos.  
 **Tecnologias:** Python  
-[🔗 Ver repositório](#)
+[🔗 Ver repositório](https://github.com/Joonathan-Henri/python-exercises)
 
 ---
 
